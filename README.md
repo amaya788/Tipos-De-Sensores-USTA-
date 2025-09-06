@@ -33,6 +33,11 @@ automatizacion industrial para detectar una gran variedad de materiales, desde m
 <h2><p align="center"> <b> <img width="311" height="235" alt="image" src="https://github.com/user-attachments/assets/1d8d512d-dbd3-4e3f-953f-d9db5cf32a90" /> </b> </h2>
 Un sensor fotoelectrico es un dispositivo que detecta objetos sin contacto usando un haz  de luz visible o infrarroja. Funciona con un emisor y un receptor: cuando un objeto interrumpe o refleja el haz, el sensor lo identifica y envia una señal electrica. Los principales tipos son: de barrera (emisor y receptor separados), reflectivo (emisor y receptor juntos, detecta la luz reflejada por el objeto) y retrorreflector (usa un reflector para devolver la luz). Se utilizan ampliamente en automatizacion, seguridad y control industrial por su precision y fiabilidad
 
+## <h2><p align="center"> <b> Sensor LiDAR </b> </h2>  
+<h2><p align="center"> <b> <img width="311" height="235" alt="image" src="sensor_lidar.png" /> </b> </h2>  
+El sensor LiDAR (Light Detection and Ranging) es un dispositivo que mide distancias y genera mapas en 2D o 3D utilizando pulsos de luz láser. Funciona emitiendo un haz láser que rebota en los objetos del entorno, midiendo el tiempo que tarda en regresar al sensor (principio de **Time of Flight**). De esta forma se obtiene una representación precisa de las distancias y formas. Los LiDAR pueden ser de escaneo rotativo, solid-state o flash, cada uno con diferentes alcances y resoluciones. Se emplean en múltiples campos como la robótica móvil, los vehículos autónomos, la topografía, el modelado 3D y sistemas de seguridad industrial por su gran precisión y fiabilidad.  
+
+
 ## <h2><p align="center"> <b> Referencias </b> </h2>
 1. Extech Instruments. IR100 Mini IR Thermometer. Instrumart, 2025. Disponible en: https://www.instrumart.com/products/25829/extech-ir100-mini-ir-thermometer
 2. Omega Engineering. Temperature Sensors – Thermocouples, RTDs, Thermistors. 2023. Disponible en: https://www.dwyeromega.com/en-us/resources/temperaturesensors
