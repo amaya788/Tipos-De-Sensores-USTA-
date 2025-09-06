@@ -13,11 +13,13 @@ Este sensor permite medir el nivel de liquido, un flotador mueve físicamente el
 Este tipo de sensor e un sistema compuesto por cazoletas helicoidales que se basa fundamentalmente en la conversión de la energía cinética del viento en movimiento mecánico de rotación, y luego en una señal eléctrica medible.
 
 ## <h2><p align="center"> <b> Sensor Inductivo </b> </h2> 
-![Sensor Inductivo](https://github.com/user-attachments/assets/cb49b015-790b-4b7e-b125-968fd04a365a)
+<img width="311" height="232" alt="image" src="https://github.com/user-attachments/assets/5f4ac9d2-9c4a-42a4-b8a5-c349002d51ac" />
 Un sensor inductivo opera mediante el principio de inducción electromagnética. Internamente, contiene una bobina que genera un campo magnético alterno. Cuando un objeto metálico (ferroso o no ferroso) entra en ese campo se inducen corrientes de Foucault y el cambio es detectado por el circuito interno, que genera una señal de salida.
 
 ## <h2><p align="center"> <b> Sensor Ultrasonido </b> </h2>  
 ![sensor de ultrasonido](https://github.com/user-attachments/assets/d2cb14c9-5dfb-4c49-9abe-bae4a65153e1)
 Un sensor de ultrasonido se basa en el principio de eco por tiempo de vuelo (time of flight), contiene un transductor piezoeléctrico que convierte energía eléctrica en ondas acústicas de alta frecuencia.
 
-
+## <h2><p align="center"> <b> Termometro IR Mini Extech IR100 </b> </h2> 
+<img width="304" height="229" alt="image" src="https://github.com/user-attachments/assets/d5e1a2c6-4298-4df2-bcf2-bbdd35b74ac4" />
+Es un termometro infrarrojo sin contacto diseñado para medir la temperatura superficial de objetos sin necesidad de tocarlos, lo que lo hace ideal para superficies calientes, de difıcil acceso o potencialmente peligrosas. Su rango de medicion va desde -34 a 446 °F(-33 a 230 °C), ofreciendo precision y rapidez en la lectura
