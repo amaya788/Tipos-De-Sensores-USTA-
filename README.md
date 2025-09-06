@@ -1,6 +1,6 @@
 # Tipos-De-Sensores-USTA-
 En este repositorio de GitHub vamos a encontrar los tipos de sensores que se encuentran en los diferentes laboratorios de la Universidad Santo Tomás, sede central.
-## align="center" Imagen 1: Sensor de Tempertura
+<h2><p align="center"> <b> Sensor de Tempertura </b> </h2>  
 
 ![sensor de temperatura](https://github.com/user-attachments/assets/788b74c3-5fe9-47c7-8d4b-d0c074ac822d)
 
