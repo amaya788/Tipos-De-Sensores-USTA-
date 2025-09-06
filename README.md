@@ -1,7 +1,7 @@
 ## 🏛️Tipos-De-Sensores-USTA-
 En este repositorio de GitHub vamos a encontrar los tipos de sensores que se encuentran en los diferentes laboratorios de la Universidad Santo Tomás, sede central.
 ## <h2><p align="center"> <b> Sensor de Tempertura  </b> </h2>  
-![sensor de temperatura](https://github.com/user-attachments/assets/788b74c3-5fe9-47c7-8d4b-d0c074ac822d)
+<h2><p align="center"> <b> <img width="327" height="430" alt="image" src="https://github.com/user-attachments/assets/0751baab-f9d3-47ae-8183-bd45c154655c" /> </b> </h2>
 Este es un sensor de temperatura tipo termopar, funciona basándose en el Efecto Seebeck. Este efecto establece que cuando dos metales distintos se unen por ambos extremos formando un circuito, y existe una diferencia de temperatura entre una de las uniones ("unión caliente" o de medida) y la otra ("unión fría" o de referencia), se genera una pequeña tensión eléctrica (milivoltios) proporcional a esa diferencia de temperatura.
 
 ## <h2><p align="center"> <b> Sensor De Nivel Liquido </b> </h2>
