@@ -2,6 +2,7 @@
 En este repositorio de GitHub vamos a encontrar los tipos de sensores que se encuentran en los diferentes laboratorios de la Universidad Santo Tomás, sede central.
 ## 🌄 Imagen 1: Sensor de Tempertura
 
+![sensor de temperatura](https://github.com/user-attachments/assets/788b74c3-5fe9-47c7-8d4b-d0c074ac822d)
 ![Atardecer en la montaña](./imagenes1/imagen1.jpg)
 
 Un hermoso atardecer capturado desde la cima de una montaña, con tonos cálidos y una vista panorámica.
