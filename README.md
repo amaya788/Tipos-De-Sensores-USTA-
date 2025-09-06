@@ -10,7 +10,7 @@ Este sensor permite medir el nivel de liquido, un flotador mueve físicamente el
 
 ## <h2><p align="center"> <b> Sensor Anemometro </b> </h2> 
 <h2><p align="center"> <b> <img width="322" height="422" alt="image" src="https://github.com/user-attachments/assets/89dfd492-f326-45eb-aa67-9b615191fa0f" /> </b> </h2>
-Este tipo de sensor e un sistema compuesto por cazoletas helicoidales que se basa fundamentalmente en la conversión de la energía cinética del viento en movimiento mecánico de rotación, y luego en una señal eléctrica medible.
+Este tipo de sensor es un sistema compuesto por cazoletas helicoidales que se basa fundamentalmente en la conversión de la energía cinética del viento en movimiento mecánico de rotación, y luego en una señal eléctrica medible.
 
 ## <h2><p align="center"> <b> Sensor Inductivo </b> </h2> 
 <h2><p align="center"> <b> <img width="311" height="232" alt="image" src="https://github.com/user-attachments/assets/5f4ac9d2-9c4a-42a4-b8a5-c349002d51ac" /> </b> </h2>
