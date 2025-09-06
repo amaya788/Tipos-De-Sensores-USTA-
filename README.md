@@ -33,3 +33,8 @@ automatizacion industrial para detectar una gran variedad de materiales, desde m
 <h2><p align="center"> <b> <img width="311" height="235" alt="image" src="https://github.com/user-attachments/assets/1d8d512d-dbd3-4e3f-953f-d9db5cf32a90" /> </b> </h2>
 Un sensor fotoelectrico es un dispositivo que detecta objetos sin contacto usando un haz  de luz visible o infrarroja. Funciona con un emisor y un receptor: cuando un objeto interrumpe o refleja el haz, el sensor lo identifica y envia una señal electrica. Los principales tipos son: de barrera (emisor y receptor separados), reflectivo (emisor y receptor juntos, detecta la luz reflejada por el objeto) y retrorreflector (usa un reflector para devolver la luz). Se utilizan ampliamente en automatizacion, seguridad y control industrial por su precision y fiabilidad
 
+## <h2><p align="center"> <b> Referencias </b> </h2>
+1. Extech Instruments. IR100 Mini IR Thermometer. Instrumart, 2025. Disponible en: https://www.instrumart.com/products/25829/extech-ir100-mini-ir-thermometer
+2. Omega Engineering. Temperature Sensors – Thermocouples, RTDs, Thermistors. 2023. Disponible en: https://www.dwyeromega.com/en-us/resources/temperaturesensors
+3. Industrias Asociadas. Sensores Fotoel´ectricos Reflex. 2024. Disponible en: https://www.industriafotoelectricos-reflex/3
+4. Rechner Sensors. Sensor Inductivo. 2018. Disponible en: https://www.rechnersensors.com/es/documentacion/knowledge/sensor-inductivo
