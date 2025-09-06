@@ -21,5 +21,15 @@ Un sensor inductivo opera mediante el principio de inducción electromagnética.
 Un sensor de ultrasonido se basa en el principio de eco por tiempo de vuelo (time of flight), contiene un transductor piezoeléctrico que convierte energía eléctrica en ondas acústicas de alta frecuencia.
 
 ## <h2><p align="center"> <b> Termometro IR Mini Extech IR100 </b> </h2> 
-<img width="304" height="229" alt="image" src="https://github.com/user-attachments/assets/d5e1a2c6-4298-4df2-bcf2-bbdd35b74ac4" />
+<h2><p align="center"> <b> <img width="304" height="229" alt="image" src="https://github.com/user-attachments/assets/d5e1a2c6-4298-4df2-bcf2-bbdd35b74ac4" /> </b> </h2> 
 Es un termometro infrarrojo sin contacto diseñado para medir la temperatura superficial de objetos sin necesidad de tocarlos, lo que lo hace ideal para superficies calientes, de difıcil acceso o potencialmente peligrosas. Su rango de medicion va desde -34 a 446 °F(-33 a 230 °C), ofreciendo precision y rapidez en la lectura
+
+## <h2><p align="center"> <b>  Sensor Capacitivo </b> </h2> 
+<h2><p align="center"> <b>  <img width="311" height="235" alt="image" src="https://github.com/user-attachments/assets/b02745c2-d640-4060-9d54-d0adc587e942" /> </b> </h2> 
+Un sensor de proximidad capacitivo, como el Autonics CR18-8DP, se utiliza en la
+automatizacion industrial para detectar una gran variedad de materiales, desde metales hasta plasticos, liquidos, madera o materiales a granel. Ademas de identificar la presencia o ausencia de objetos, resulta muy util en la medicion de niveles en tanques o contenedores, incluso a traves de paredes no metalicas, en la deteccion de fugas de lıquidos o vapor, y en el control de procesos como verificar el llenado de envases o la colocacion de tapas en lıneas de produccion.
+
+## <h2><p align="center"> <b> Sensor Fotoelectrico </b> </h2>
+<h2><p align="center"> <b> <img width="311" height="235" alt="image" src="https://github.com/user-attachments/assets/1d8d512d-dbd3-4e3f-953f-d9db5cf32a90" /> </b> </h2>
+Un sensor fotoelectrico es un dispositivo que detecta objetos sin contacto usando un haz  de luz visible o infrarroja. Funciona con un emisor y un receptor: cuando un objeto interrumpe o refleja el haz, el sensor lo identifica y envia una señal electrica. Los principales tipos son: de barrera (emisor y receptor separados), reflectivo (emisor y receptor juntos, detecta la luz reflejada por el objeto) y retrorreflector (usa un reflector para devolver la luz). Se utilizan ampliamente en automatizacion, seguridad y control industrial por su precision y fiabilidad
+
