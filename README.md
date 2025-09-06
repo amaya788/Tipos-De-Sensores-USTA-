@@ -13,7 +13,7 @@ Este sensor permite medir el nivel de liquido, un flotador mueve físicamente el
 Este tipo de sensor e un sistema compuesto por cazoletas helicoidales que se basa fundamentalmente en la conversión de la energía cinética del viento en movimiento mecánico de rotación, y luego en una señal eléctrica medible.
 
 ## <h2><p align="center"> <b> Sensor Inductivo </b> </h2> 
-<img width="311" height="232" alt="image" src="https://github.com/user-attachments/assets/5f4ac9d2-9c4a-42a4-b8a5-c349002d51ac" />
+<h2><p align="center"> <b> <img width="311" height="232" alt="image" src="https://github.com/user-attachments/assets/5f4ac9d2-9c4a-42a4-b8a5-c349002d51ac" /> </b> </h2>
 Un sensor inductivo opera mediante el principio de inducción electromagnética. Internamente, contiene una bobina que genera un campo magnético alterno. Cuando un objeto metálico (ferroso o no ferroso) entra en ese campo se inducen corrientes de Foucault y el cambio es detectado por el circuito interno, que genera una señal de salida.
 
 ## <h2><p align="center"> <b> Sensor Ultrasonido </b> </h2>  
